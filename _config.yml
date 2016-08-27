@@ -1,0 +1,29 @@
+name: Stewart
+favicon: null
+layout_spectrum: 0.7588923762086779
+typography_spectrum: 0.6961198842618614
+title: Stewart
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9991811288055032
+  lightness: 0.3352366699837148
+  saturation: 0.5726922012399882
+  rhythmicContrast: 0.4695757713634521
+purpose: []
